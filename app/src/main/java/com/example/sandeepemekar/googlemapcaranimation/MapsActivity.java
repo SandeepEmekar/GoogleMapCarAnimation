@@ -90,7 +90,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     /**
      * Bearing between two LatLng pair
-     *
+     * Sandeep: Credits to Author "amanjeetsingh150"
      * @param begin First LatLng Pair
      * @param end   Second LatLng Pair
      * @return The bearing or the angle at which the marker should rotate for going to {@code end} LAtLng.
